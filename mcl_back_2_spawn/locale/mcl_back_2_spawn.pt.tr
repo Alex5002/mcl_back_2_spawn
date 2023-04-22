@@ -1,0 +1,8 @@
+# textdomain: mcl_back_2_spawn
+Go back to your personnal spawn point, or, if a player name is given, apply this command to him (requires 'server' and 'tp' privileges).=Volte ao seu ponto de desova pessoal, ou, se lhe for dado um nome de jogador, aplique este comando a ele (requer os privilégios de 'servidor' e 'tp').
+The given player is not online.=O jogador em questão não está online.
+You need the 'server' and 'tp' privileges to run the command on someone else than you!=Precisa dos privilégios 'servidor' e 'tp' para executar o comando noutra pessoa que não você!
+You have been teleported to your spawn point by =Foi teleportado para o seu ponto de desova por 
+You have teleported yourself to your spawn point.=Teleportou-se para o seu ponto de desova.
+You have teleported =Teleportou 
+ to his spawn point!= ao seu ponto de desova!

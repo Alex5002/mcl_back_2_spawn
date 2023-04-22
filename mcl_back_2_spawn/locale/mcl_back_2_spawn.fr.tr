@@ -1,0 +1,9 @@
+# textdomain: mcl_back_2_spawn
+Go back to your personnal spawn point, or, if a player name is given, apply this command to him (requires 'server' and 'tp' privileges).=Retournez à votre point d'apparition, ou faites revenir un joueur de votre choix à son point d'apparition si un nom d'utilisateur est donné ( cette deuxième méthode nécessite les privilèges 'server' et 'tp' ).
+The given player is not online.=Le joueur demandé n'est pas en ligne.
+You need the 'server' and 'tp' privileges to run the command on someone else than you!=Vous devez avoir les privilèges 'server' et 'tp' pour exécuter cette commande sur quelqu'un d'autre que vous !
+You have been teleported to your spawn point by =Vous avez été téléporté à votre point d'apparition sur demande de 
+You have teleported yourself to your spawn point.=Vous vous êtes téléporté à votre point d'apparition.
+You have teleported =Vous avez téléporté 
+ to his spawn point!= à son point d'apparition !
+ != !
