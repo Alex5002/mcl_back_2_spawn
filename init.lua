@@ -1,6 +1,6 @@
-S = minetest.get_translator('mcl_back_2_spawn')
+S = minetest.get_translator('mcl_back_to_spawn')
 
-minetest.register_chatcommand("back_2_spawn", {
+minetest.register_chatcommand("back_to_spawn", {
 	description = "Go back to your personnal spawn point, or, if a player name is given, apply this command to him (requires \'server\' and \'tp\' privileges).",
 	params = '[<player>]',
 	privs = {},
